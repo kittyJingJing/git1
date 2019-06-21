@@ -1,1 +1,7 @@
-我是魔鬼中的天 1.t'x't
+我是魔鬼中的天使
+git 指令  git init 
+git config --global user.name
+git config --global user.email
+git status 
+git commit -m "这是注释"
+git push http://  master
