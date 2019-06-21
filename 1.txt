@@ -5,3 +5,8 @@ git config --global user.email
 git status 
 git commit -m "这是注释"
 git push http://  master
+输入错误的时候 需要
+：q! 强制退出
+
+git log --oneline
+git log 找到作者的信息
